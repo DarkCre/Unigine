@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aa892\\C++\\crossplatform\\Unigine\\Unigine.csproj",
+      "projectUniqueName": "C:\\Users\\aa892\\C++\\Unigine\\Unigine\\Unigine.csproj",
       "projectName": "Unigine",
-      "projectPath": "C:\\Users\\aa892\\C++\\crossplatform\\Unigine\\Unigine.csproj",
+      "projectPath": "C:\\Users\\aa892\\C++\\Unigine\\Unigine\\Unigine.csproj",
       "packagesPath": "C:\\Users\\aa892\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aa892\\C++\\crossplatform\\Unigine\\obj\\",
+      "outputPath": "C:\\Users\\aa892\\C++\\Unigine\\Unigine\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aa892\\AppData\\Roaming\\NuGet\\NuGet.Config",
