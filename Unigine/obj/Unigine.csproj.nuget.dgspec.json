@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aa892\\C++\\Unigine\\Unigine\\Unigine.csproj": {}
+    "C:\\Users\\user\\source\\repos\\ConsoleApp3\\NewRepo\\DarkCre\\Unigine\\Unigine\\Unigine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aa892\\C++\\Unigine\\Unigine\\Unigine.csproj": {
+    "C:\\Users\\user\\source\\repos\\ConsoleApp3\\NewRepo\\DarkCre\\Unigine\\Unigine\\Unigine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aa892\\C++\\Unigine\\Unigine\\Unigine.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\ConsoleApp3\\NewRepo\\DarkCre\\Unigine\\Unigine\\Unigine.csproj",
         "projectName": "Unigine",
-        "projectPath": "C:\\Users\\aa892\\C++\\Unigine\\Unigine\\Unigine.csproj",
-        "packagesPath": "C:\\Users\\aa892\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aa892\\C++\\Unigine\\Unigine\\obj\\",
+        "projectPath": "C:\\Users\\user\\source\\repos\\ConsoleApp3\\NewRepo\\DarkCre\\Unigine\\Unigine\\Unigine.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\ConsoleApp3\\NewRepo\\DarkCre\\Unigine\\Unigine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aa892\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,8 +45,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
